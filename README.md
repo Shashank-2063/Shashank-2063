@@ -25,7 +25,7 @@ I'm a Computer Science graduate with a solid foundation in **Python, machine lea
 | :-- | :-- |
 | 🎓 **Education** | B.Tech, Computer Science & Engineering · NIT Arunachal Pradesh (2022 – 2026) |
 | 💼 **Currently** | Analyst, DevOps Support · Deloitte (Functional Transformation) · Aug 2026 – Present |
-| 🧠 **Focus areas** | Python · Java · Machine Learning · Web Development · Anaplan |
+| 🧠 **Focus areas** | Python· Machine Learning · Web Development · Anaplan |
 
 ---
 
@@ -86,7 +86,7 @@ I'm a Computer Science graduate with a solid foundation in **Python, machine lea
 | Category | Details |
 | :-- | :-- |
 | 💻 **Languages** | Python, C++, JavaScript, HTML, CSS |
-| ⚙️ **Frameworks & Libraries** | Spring Boot, Angular, scikit-learn, OpenCV, Deep Learning |
+| ⚙️ **Frameworks & Libraries** | Spring Boot, scikit-learn, OpenCV, Deep Learning |
 | 🧰 **Platforms & Tools** | ServiceNow, Anaplan, Data Visualization tools |
 | 🗄️ **Databases** | MySQL |
 
