@@ -1,5 +1,3 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere below with your actual GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shashank%20Chaturvedi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Analyst%20%C2%B7%20Developer%20%C2%B7%20ML%20Enthusiast&descAlignY=60&descSize=18" alt="Header" />
@@ -116,8 +114,8 @@ I'm a Computer Science graduate with a solid foundation in **Python, machine lea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashank-2063&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-2063&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
