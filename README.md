@@ -18,7 +18,6 @@
 <br />
 <br />
 
-[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 <div>
   <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
 </div>
