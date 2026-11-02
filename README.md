@@ -60,7 +60,7 @@
 <br />
 <br />
 
-<div align = "center">
+<!-- <div align = "center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -85,7 +85,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>   
-</div>
+</div> -->
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/BreakLine.gif"/>
@@ -96,13 +96,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
   <br/>
-<!--   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,7 +107,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
