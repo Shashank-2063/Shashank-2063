@@ -1,24 +1,15 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <b>Shashank Chaturvedi</b></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Java+Developer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
 <br />
 <div>
   <p align="middle">
-  <a href="https://www.linkedin.com/in/sagnikghoshcr7">
+  <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
-  <a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
+  <a href="mailto:?subject=Hello%20Shashank,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/Sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
   </a>
   <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
   </p>
@@ -39,37 +30,6 @@
 <!-- <div>
 [<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
 </div> -->
-
-<br />
-<br />
-<br />
-
-<div>
-<a href="https://leetcode.com/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
-</a>
-<a href="https://www.hackerrank.com/sagnikghoshmand1/">
-  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
-</a>
-<a href="https://www.codechef.com/users/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
-</a>
-<a href="https://codeforces.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
-</a>
-<a href="https://app.codesignal.com/profile/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/sagnikghoshcr7/practice/">
-  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
-</a>
-<a href="https://cssbattle.dev/player/sagnikghoshcr7/">
-  <img align="left" alt="Sagnik's CSSBattle" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CSSBattle.png" />
-</a>
-<a href="https://www.codewars.com/users/sagnikghoshcr7">
-  <img align="left" width="350px" alt="Sagnik's CodeWars" src="https://www.codewars.com/users/sagnikghoshcr7/badges/large" />
-</a>
-</div>
 
 <br />
 <br />
