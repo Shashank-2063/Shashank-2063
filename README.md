@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <b>Shashank Chaturvedi</b></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Java+Developer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Web+Developer;I'm+a+Java+Developer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
 <br />
 <div>
