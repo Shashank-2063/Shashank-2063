@@ -11,7 +11,6 @@
   <a href="mailto:?subject=Hello%20Shashank,%20From%20Github">
   <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
   </a>
-  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
   </p>
 </div>
 
@@ -21,14 +20,6 @@
 <div>
   <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
 </div>
-
-<!-- <div>
-  <img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div> -->
-
-<!-- <div>
-[<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
-</div> -->
 
 <br />
 <br />
@@ -58,9 +49,6 @@
 <br />
 <br />
   
-<!-- <p align="center">
-<img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
-<img align="left" height="200" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" /> -->
 <img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
 <img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
 <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
