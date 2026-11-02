@@ -17,9 +17,9 @@
 <br />
 <br />
 
-<!-- <div>
+<div>
   <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div> -->
+</div> 
 
 <br />
 <br />
