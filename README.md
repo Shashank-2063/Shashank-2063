@@ -39,15 +39,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<div>
-<br />
-<br />
   
 <img align="left" height="180" src="https://readme-stats.clckblog.space/api?username=sagnikghoshcr7&theme=onedark" alt="sagnikghoshcr7"/> 
 <img align="left" height="180" width="230" src="https://readme-stats.clckblog.space/api/top-langs/?username=sagnikghoshcr7&hide=css&theme=nord" alt="sagnikghoshcr7" />
